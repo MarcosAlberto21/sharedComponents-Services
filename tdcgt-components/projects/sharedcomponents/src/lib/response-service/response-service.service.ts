@@ -9,5 +9,6 @@ export class ResponseServiceService {
 
   getParam(param:string):string{
     return `Your para its: ${param}`
+    
   }
 }
