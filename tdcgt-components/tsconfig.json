@@ -15,8 +15,8 @@
     "experimentalDecorators": true,
     "moduleResolution": "node",
     "paths": {
-      "shared-components": [
-        "./dist/shared-components"
+      "sharedcomponents": [
+        "./dist/sharedcomponents"
       ]
     },
     "importHelpers": true,
